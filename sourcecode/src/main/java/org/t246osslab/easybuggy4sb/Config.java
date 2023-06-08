@@ -6,3 +6,5 @@ public class Config {
     public static final String AUTH_USER = "user1";
     public static final String AUTH_PASS = "pass2";
 }
+
+// java comment
